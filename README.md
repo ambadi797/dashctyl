@@ -5,7 +5,7 @@ This is a New Dashactyl Script created by the Deveploment Team using Dashactyl R
 Only do this commands, Its easy!!
 
 1º Download the Script
-``curl -Lo script.sh https://raw.githubusercontent.com/FranXiss/Updated-Dashactyl-Script/main/script.sh``
+``curl -Lo script.sh https://raw.githubusercontent.com/ambadi797/dashctyl/main/script.sh``
 2º Run the Script
 ``sudo bash script.sh``
 # 🌠 What OS Support? 🌠
